@@ -1,0 +1,15 @@
+C:\Users\Abiswas\source\repos\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe.config
+C:\Users\Abiswas\source\repos\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe
+C:\Users\Abiswas\source\repos\WpfApp11\WpfApp11\bin\Debug\WpfApp11.pdb
+C:\Users\Abiswas\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.AssemblyReference.cache
+C:\Users\Abiswas\source\repos\WpfApp11\WpfApp11\obj\Debug\MainWindow.g.cs
+C:\Users\Abiswas\source\repos\WpfApp11\WpfApp11\obj\Debug\App.g.cs
+C:\Users\Abiswas\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.cache
+C:\Users\Abiswas\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.lref
+C:\Users\Abiswas\source\repos\WpfApp11\WpfApp11\obj\Debug\MainWindow.baml
+C:\Users\Abiswas\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.g.resources
+C:\Users\Abiswas\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.Properties.Resources.resources
+C:\Users\Abiswas\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.GenerateResource.cache
+C:\Users\Abiswas\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.CoreCompileInputs.cache
+C:\Users\Abiswas\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.exe
+C:\Users\Abiswas\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.pdb
